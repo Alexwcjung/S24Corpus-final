@@ -11,6 +11,7 @@ written by Woochang Jung
 ## 4. Result and discussion
 
 Examine the result and get some ideas (TED 100 transcripts):
+[result csv file on your repository](https://github.com/Alexwcjung/S24Corpus-final/blob/main/will-begoingto.csv)
 
 + Correlation among Wordcount, Number of 'will' occurrences, Number of 'be going to' occurrences
 ![](https://github.com/MK316/Spring2024/blob/main/Corpus/TEDdata/will-be/will-begoingto.png)
