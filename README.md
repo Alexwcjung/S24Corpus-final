@@ -10,7 +10,7 @@ written by Woochang Jung
 
 ## 4. Result and discussion
 
-Examine the result and get some ideas:
+Examine the result and get some ideas (TED 100 transcripts):
 
 + Correlation among Wordcount, Number of 'will' occurrences, Number of 'be going to' occurrences
 ![](https://github.com/MK316/Spring2024/blob/main/Corpus/TEDdata/will-be/will-begoingto.png)
