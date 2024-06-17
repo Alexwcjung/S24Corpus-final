@@ -83,8 +83,8 @@ This meticulously curated dataset provides a robust foundation for the analysis 
 
 ## 4. Result and discussion
 ![Alt text](https://github.com/Alexwcjung/S24Corpus-final/blob/main/Corpus/Percentage%20of%20Passives%20in%20Spoken%20and%20Written%20Texts.png)
-![Alt text](https://github.com/Alexwcjung/S24Corpus-final/blob/main/Corpus/Table%201.png)
-![Alt text](https://github.com/Alexwcjung/S24Corpus-final/blob/main/Corpus/Chi-Squared%20Test%20Results.png)
+![Percentage of Passives in Spoken and Written Texts](https://github.com/Alexwcjung/S24Corpus-final/blob/main/Corpus/Table%201.png)
+![Chi-Squared Test Results](https://github.com/Alexwcjung/S24Corpus-final/blob/main/Corpus/Chi-Squared%20Test%20Results.png)
 
 #### Interpretation
 The Chi-square test yielded a statistic of 359.143 with a p-value of 4.327e-80, indicating a highly significant result. With a degrees of freedom of 1, the extremely low p-value allows us to reject the null hypothesis, which posited no difference in the usage of passive constructions between spoken and written texts.
