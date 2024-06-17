@@ -83,11 +83,11 @@ This meticulously curated dataset provides a robust foundation for the analysis 
 
 ## 4. Result and discussion
 ![Alt text]([URL_of_image](https://github.com/Alexwcjung/S24Corpus-final/blob/main/Corpus/Table%201.png))
-
+https://github.com/Alexwcjung/S24Corpus-final/blob/main/Corpus/Chi-Squared%20Test%20Results.png
 ## 5. Summary and future research
+The analysis of passive constructions in spoken and written texts reveals significant differences in their usage patterns. Using a Chi-square test, we investigated the frequency of 'be + past participle' and 'get + past participle' forms in both types of texts. The results of the Chi-square test are as follows:
 
 ## 6. references
-### References
 - Alexiadou, A. (2005). *Functional structure in nominals: Nominalization and ergativity*. University of Stuttgart.
 - Biber, D., Johansson, S., Leech, G., Conrad, S., & Finegan, E. (1999). *Longman grammar of spoken and written English*. Longman.
 - Budwig, N. (1990). *The linguistic marking of nonprototypical agency: An exploration into children's use of passives* (Doctoral dissertation). Clark University.
