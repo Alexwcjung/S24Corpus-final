@@ -84,8 +84,13 @@ This meticulously curated dataset provides a robust foundation for the analysis 
 ## 4. Result and discussion
 ![Alt text]([URL_of_image](https://github.com/Alexwcjung/S24Corpus-final/blob/main/Corpus/Table%201.png))
 https://github.com/Alexwcjung/S24Corpus-final/blob/main/Corpus/Chi-Squared%20Test%20Results.png
-## 5. Summary and future research
-The analysis of passive constructions in spoken and written texts reveals significant differences in their usage patterns. Using a Chi-square test, we investigated the frequency of 'be + past participle' and 'get + past participle' forms in both types of texts. The results of the Chi-square test are as follows:
+#### Interpretation
+The Chi-square test yielded a statistic of 359.143 with a p-value of 4.327e-80, indicating a highly significant result. With a degrees of freedom of 1, the extremely low p-value allows us to reject the null hypothesis, which posited no difference in the usage of passive constructions between spoken and written texts.
+
+## 5. Conclusion and future research
+The statistical analysis confirms that the distribution of passive constructions ('be + past participle' and 'get + past participle') is significantly different between spoken and written texts. Specifically, 'be + past participle' is predominantly more common in both spoken and written forms. However, 'get + past participle' appears more frequently in spoken texts compared to written texts, though still less common overall.
+These findings suggest that while both forms of passive constructions are utilized in English, their usage is context-dependent, reflecting differences in spoken and written communication. The higher occurrence of 'get + past participle' in spoken texts may be attributed to its more colloquial nature, whereas 'be + past participle' remains the standard form in written texts. This insight is valuable for linguistic studies, contributing to our understanding of language variation and usage in different modes of communication.
+
 
 ## 6. references
 - Alexiadou, A. (2005). *Functional structure in nominals: Nominalization and ergativity*. University of Stuttgart.
