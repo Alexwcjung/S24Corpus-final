@@ -83,6 +83,7 @@ This meticulously curated dataset provides a robust foundation for the analysis 
 
 ## 4. Result and discussion
 ![Alt text]([Corpus/Table 1.png](https://raw.githubusercontent.com/Alexwcjung/S24Corpus-final/main/Corpus/Table%201.png))
+![image]([(https://raw.githubusercontent.com/Alexwcjung/S24Corpus-final/main/Corpus/Table%201.png])
 
 
 ## 5. Summary and future research
