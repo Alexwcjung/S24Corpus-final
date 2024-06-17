@@ -82,7 +82,7 @@ The combined dataset for this research includes:
 This meticulously curated dataset provides a robust foundation for the analysis of language use in both spoken and written forms, supporting the validity and reliability of the research findings.
 
 ## 4. Result and discussion
-![image](https://github.com/Alexwcjung/EPA23/assets/127401494/fbfe9583-fce5-412b-a1bb-542eb3018550)
+![image]([https://github.com/Alexwcjung/EPA23/assets/127401494/fbfe9583-fce5-412b-a1bb-542eb3018550](https://github.com/Alexwcjung/S24Corpus-final/blob/main/Corpus/Table%201.png))
 
 ## 5. Summary and future research
 
