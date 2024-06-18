@@ -92,7 +92,7 @@ In this study, we employed the Chi-Squared test to examine the differences in th
    - The degrees of freedom (df) for this test is calculated as the number of categories minus one. In this study, with two categories (spoken and written texts), the degrees of freedom is 1.
 
 5. **Determine Significance**:
-   - The Chi-Squared test yielded a statistic of 359.143 with a p-value of 4.327e-80. This extremely low p-value indicates a highly significant result.
+   - The Chi-Squared test yielded a statistic of 359.143 with a p-value of 4.327e-80.
 
 #### Interpretation of Results
 
