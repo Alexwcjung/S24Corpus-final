@@ -10,8 +10,8 @@ Understanding English grammar well help learners use English more accurately as 
 #### 2.1 Characteristics of Central Get-Passives
 
 ##### 2.1.1 Absence of an Agent By-Phrase
-'Get-passives' often lack an agent. Studies confirm that get-passives typically "do not include an expressed animate agent" (Quirk et al., 1985, p. 161). In Collins' (1996) research, 92% of get-passives did not have an agent, and Carter and McCarthy (1999) found a similar result with 93% being agentless, as shown in example (1):
-# (1) Henry got beaten last night.
+'Get-passives' often lack an agent. Studies confirm that get-passives typically "do not include an expressed animate agent" (Quirk et al., 1985, p. 161). In Collins' (1996) research, 92% of get-passives did not have an agent, and Carter and McCarthy (1999) found a similar result with 93% being agentless, as shown in example (1): 
+(1) Henry got beaten last night.
 
 ##### 2.1.2 Dynamic Lexical Verb
 Get-passives are exclusively used with dynamic verbs, which indicate actions rather than outcomes (Huddleston & Pullum, 2002, p. 1442). Alexiadou (2005) states that "the get-passive is not used with stative verbs or verbs where the subject cannot be seen as affected." For instance, be cannot be replaced by get in sentences like example (2) (Huddleston & Pullum, 2002, p. 1442):
