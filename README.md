@@ -54,7 +54,7 @@ The NOW corpus includes millions of words from web-based news articles across a 
 
 **Sample Selection and Cleaning**
 - For this study, samples from the NOW corpus collected between 2010 and 2016 were used. The sample data consists of 2,916 texts, totaling approximately 1.7 million words.
-- **Downloading and Preprocessing**: The samples were downloaded from the NOW corpus. Python scripts were utilized to remove unnecessary characters such as HTML tags (`<p>`, `<h>`), and to split the text IDs. This preprocessing step ensured that the data was clean and ready for analysis.
+- **Downloading and Preprocessing**: The samples were downloaded from the NOW corpus. Python scripts were utilized to remove characters such as HTML tags (`<p>`, `<h>`), and to split the text IDs. This preprocessing step ensured that the data was clean and ready for analysis.
 
 #### 3.3 Rationale for Comparison
 
