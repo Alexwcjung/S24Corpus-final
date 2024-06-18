@@ -96,12 +96,7 @@ In this study, we employed the Chi-Squared test to examine the differences in th
 
 #### Interpretation of Results
 ![Chi-Squared Test Results](https://github.com/Alexwcjung/S24Corpus-final/blob/main/Corpus/Chi-Squared%20Test%20Results.png)
-
 Given the Chi-Squared statistic of 359.143 and the p-value of 4.327e-80, which is far below the conventional threshold of 0.05, we reject the null hypothesis. This result indicates a significant difference in the usage of passive constructions between spoken and written texts. Specifically, it supports the conclusion that 'be + past participle' is much more common in both forms, whereas 'get + past participle' is more frequent in spoken texts compared to written texts, although it remains less common overall.
-
-#### Conclusion
-
-The Chi-Squared test provided robust evidence that the distribution of passive constructions ('be + past participle' and 'get + past participle') varies significantly between spoken and written English. This finding has important implications for understanding language usage patterns and for teaching English as a Foreign Language (EFL), particularly in highlighting the contextual differences in the use of passive constructions.
 
 #### Interpretation
 The Chi-square test yielded a statistic of 359.143 with a p-value of 4.327e-80, indicating a highly significant result. With a degrees of freedom of 1, the extremely low p-value allows us to reject the null hypothesis, which posited no difference in the usage of passive constructions between spoken and written texts.
