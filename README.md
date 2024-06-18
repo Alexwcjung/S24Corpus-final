@@ -10,7 +10,7 @@ Understanding English grammar well help learners use English more accurately as 
 #### 2.1 Characteristics of Central Get-Passives
 
 ##### 2.1.1 Absence of an Agent By-Phrase
-Central get-passives often lack an agent. Studies confirm that get-passives typically "do not include an expressed animate agent" (Quirk et al., 1985, p. 161). In Collins' (1996) research, 92% of get-passives did not have an agent, and Carter and McCarthy (1999) found a similar result with 93% being agentless, as shown in example (1):
+'Get-passives' often lack an agent. Studies confirm that get-passives typically "do not include an expressed animate agent" (Quirk et al., 1985, p. 161). In Collins' (1996) research, 92% of get-passives did not have an agent, and Carter and McCarthy (1999) found a similar result with 93% being agentless, as shown in example (1):
 (1) Henry got beaten last night.
 
 ##### 2.1.2 Dynamic Lexical Verb
