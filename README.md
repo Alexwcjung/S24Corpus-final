@@ -10,31 +10,21 @@ Understanding English grammar well help learners use English more accurately as 
 #### 2.1 Characteristics of Central Get-Passives
 
 ##### 2.1.1 Absence of an Agent By-Phrase
-'Get-passives' often lack an agent. Studies confirm that get-passives typically "do not include an expressed animate agent" (Quirk et al., 1985, p. 161). In Collins' (1996) research, 92% of get-passives did not have an agent, and Carter and McCarthy (1999) found a similar result with 93% being agentless, as shown in example (1): (1) Henry got beaten last night.
+'Get-passives' often lack an agent. Studies confirm that get-passives typically "do not include an expressed animate agent" (Quirk et al., 1985, p. 161). In Collins' (1996) research, 92% of get-passives did not have an agent as shown in example (1): (1) Henry got beaten last night.
 
 ##### 2.1.2 Dynamic Lexical Verb
 Get-passives are exclusively used with dynamic verbs, which indicate actions rather than outcomes (Huddleston & Pullum, 2002, p. 1442). Alexiadou (2005) states that "the get-passive is not used with stative verbs or verbs where the subject cannot be seen as affected." For instance, be cannot be replaced by get in sentences like example (2) (Huddleston & Pullum, 2002, p. 1442):
 (2) It was/*got believed that the letter was a forgery.
-
-Get-passives frequently occur with verbs related to daily activities (e.g., get changed, cleaned) and informal expressions (e.g., get kicked out, muddled up), highlighting their informal nature.
 
 ##### 2.1.3 Responsibility of the Subject
 Subjects in get-passives often have some responsibility for initiating the event. Huddleston (1984) points out that "get" suggests that the subject has some degree of initiative, unlike "be." For example, in (3) (Givón & Yang, 1994, p. 120), the subject of the get-passive bears some responsibility:
 (3) He got caught by the police.
     He was caught by the police.
 
-Additional evidence is found in constructions like 'try + to/and + get Ven' and 'manage + to + get Ven' (Collins, 1996, p. 51):
-(4) Our advice is for both to go and get involved in the new technology.
-(5) He managed to get transferred to the combat forces.
+##### 2.1.4 Semantic Implication
+Hatcher (1949) noted that central get-passives are used for events with either positive or negative outcomes. Fleisher (2006) added that these events usually have significant effects, either good or bad, on the subject. Most of the time, get-passives indicate negative events (Carter & McCarthy, 1999). For instance, phrases like "get arrested," "get beaten," "get criticized," and "get penalized" generally refer to adverse situations (Hatcher, 1949; Budwig, 1990). Collins (1996) discovered that 67% of get-passives have negative meanings, and Leech et al. (2009) observed that the use of negative get-passives increased from 60.3% to 66.3% between the 1960s and 1990s.
 
-##### 2.1.4 Animacy of the Subject
-Animate human referents often connect the concepts of subject animacy, control, and responsibility. Toyota (2007) found that 85.7% of subjects in get-passives are animate, with 84.7% being human. However, get-passives with inanimate subjects, which cannot bear responsibility, are not uncommon (Givón, 1993). Example (6) illustrates this:
-(6) Peter’s video recorder got fixed last week.
-
-##### 2.1.5 Semantic Implication
-Hatcher (1949) observed that central get-passives are used for events with non-neutral outcomes. Fleisher (2006) noted that these events have either fortunate or unfortunate consequences for the subject. Most get-passives signal unfortunate events (Carter & McCarthy, 1999). For example, verbs like get arrested, beaten, criticized, and penalized typically refer to adverse events (Hatcher, 1949; Budwig, 1990). Collins (1996) found that 67% of get-passives had adversative meanings, while Leech et al. (2009) noted an increase in adversative get-passives from 60.3% to 66.3% between the 1960s and 1990s.
-
-Corpus studies show that central get-passives often convey emotive or interpersonal meanings, reflecting either the speaker’s attitude or the subject's situation, unlike the neutral be-passives (Stubbs, 2001; Fryd, 2008). Thus, be- and get-passives are not pragmatically equivalent (Siewierska, 1984; Guerrero Medina, 2009). Biber et al. (1999) concluded that get-passives usually select verbs with negative connotations, indicating actions that are difficult or disadvantageous for the subject. Rühlemann (2007) emphasized that the central get-passive prefers verbs with an 'adversative' core meaning.
+Research shows that central get-passives often carry emotional or interpersonal implications, indicating the speaker’s feelings or the subject's condition, unlike the neutral be-passives (Stubbs, 2001; Fryd, 2008). Thus, be- and get-passives are not used interchangeably (Siewierska, 1984; Guerrero Medina, 2009). Biber et al. (1999) found that get-passives usually involve verbs with negative connotations, referring to actions that are tough or disadvantageous for the subject. Rühlemann (2007) highlighted that central get-passives favor verbs with a negative core meaning.
 
 ### 3. Data Collection Methodology
 
