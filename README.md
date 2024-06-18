@@ -47,7 +47,7 @@ The spoken data were collected from TED, specifically focusing on the 100 most v
 #### 3.2 Written Data Collection
 
 **Data Source**
-Written data were extracted from the News on the Web (NOW) corpus, a comprehensive linguistic resource comprising a vast collection of online news articles. This corpus is designed to support research in linguistics, language variation, and diachronic change (Davies, 2013).
+Written data were extracted from the News on the Web (NOW) corpus, a comprehensive linguistic resource comprising a vast collection of online news articles. This corpus is designed to support research in linguistics and language variation (Davies, 2013).
 
 **Content and Scope**
 The NOW corpus includes millions of words from web-based news articles across a broad spectrum of news websites, ensuring a diverse representation of contemporary online language use.
