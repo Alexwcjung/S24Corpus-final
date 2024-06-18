@@ -66,7 +66,7 @@ The combined dataset for this research includes:
 - **Spoken Data**: Cleaned transcripts from 100 TED video clips featuring native-like or native speakers of English, ensuring high-quality spoken language data.
 - **Written Data**: Samples from the NOW corpus collected between 2010 and 2016, comprising 2,916 texts with 1.7 million words, representing a wide array of online news articles.
 
-This meticulously curated dataset provides a robust foundation for the analysis of language use in both spoken and written forms, supporting the validity and reliability of the research findings.
+This carefully selected dataset offers a strong base for analyzing language use in both spoken and written forms.
 
 ## 4. Result and discussion
 ![Alt text](https://github.com/Alexwcjung/S24Corpus-final/blob/main/Corpus/Percentage%20of%20Passives%20in%20Spoken%20and%20Written%20Texts.png)
