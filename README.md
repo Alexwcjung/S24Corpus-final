@@ -25,17 +25,6 @@ Hatcher (1949) noted that central get-passives are used for events with either p
 
 Research shows that central get-passives often carry emotional or interpersonal implications, indicating the speaker’s feelings or the subject's condition, unlike the neutral be-passives (Stubbs, 2001; Fryd, 2008). Thus, be- and get-passives are not used interchangeably (Siewierska, 1984; Guerrero Medina, 2009). Biber et al. (1999) found that get-passives usually involve verbs with negative connotations, referring to actions that are tough or disadvantageous for the subject. Rühlemann (2007) highlighted that central get-passives favor verbs with a negative core meaning.
 
-### 3. Methodology
-Including the Chi-squared test as part of your methodology and mentioning it again in the results is a good approach. This way, the methodology section provides a clear understanding of the tools and procedures you used for analysis, while the results section presents the outcomes of applying those tools.
-
-### Methodology
-In this section, you describe the Chi-squared test as part of your data analysis approach.
-
-### Results
-Here, you present the findings from the Chi-squared test, including the test statistic, p-value, and interpretation of these results.
-
-### Methodology
-
 #### 3. Methodology
 
 ##### 3.1 Data Collection
