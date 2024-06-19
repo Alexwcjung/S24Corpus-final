@@ -68,7 +68,7 @@ The combined dataset for this research includes:
 
 This carefully selected dataset offers a strong base for analyzing language use in both spoken and written forms.
 
-## 4. Result and discussion (📌📌📌 Miran - Frequency table summary: Both Observed frequency and Expected frequency should be provided together)
+## 4. Result and discussion (📌📌📌 Miran comment regarding the table below - Frequency table summary: Both Observed frequency and Expected frequency should be provided together)
 -----------------------------------------
 ![Alt text](https://github.com/Alexwcjung/S24Corpus-final/blob/main/Corpus/Percentage%20of%20Passives%20in%20Spoken%20and%20Written%20Texts.png)
 ![Percentage of Passives in Spoken and Written Texts](https://github.com/Alexwcjung/S24Corpus-final/blob/main/Corpus/Table%201.png)
