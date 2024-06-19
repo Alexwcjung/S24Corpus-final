@@ -102,8 +102,7 @@ This carefully selected dataset offers a strong base for analyzing language use 
 | **Expected Frequencies**|              |               |               |
 | be + past participle    | 1891.65      | 13812.35      |               |
 | get + past participle   | 30.35        | 221.65        |               |
-| **Conclusion**          |              |               |               |
-| The difference in passive constructions between spoken and written texts is statistically significant (reject null hypothesis) | | | |
+
 
 
 
