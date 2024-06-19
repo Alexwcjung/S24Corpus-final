@@ -107,7 +107,8 @@ This carefully selected dataset offers a strong base for analyzing language use 
 
 
 ### Interpretation
-The Chi-square test results show a highly significant difference between the observed and expected frequencies of passive constructions in spoken and written texts. This leads to the rejection of the null hypothesis, indicating that the differences in the usage of 'be + past participle' and 'get + past participle' between spoken and written texts are statistically significant. Specifically, 'be + past participle' is predominant in both forms, while 'get + past participle' is more frequent in spoken texts compared to written texts, though it remains less common overall.
+The Chi-square test results show a highly significant difference between the observed and expected frequencies of passive constructions in spoken and written texts. 
+- This leads to the rejection of the null hypothesis, indicating that the differences in the usage of 'be + past participle' and 'get + past participle' between spoken and written texts are statistically significant. Specifically, 'be + past participle' is predominant in both forms, while 'get + past participle' is more frequent in spoken texts compared to written texts, though it remains less common overall.
 
 - For 'be + past participle' in spoken texts, the observed frequency (1794) is slightly lower than the expected frequency (1891.65).
 - For 'get + past participle' in spoken texts, the observed frequency (128) is much higher than the expected frequency (30.35).
@@ -118,7 +119,8 @@ The Chi-square test results show a highly significant difference between the obs
 The analysis reveals a significant difference in the use of passive constructions ('be + past participle' and 'get + past participle') between spoken and written texts. 
 - Specifically, 'be + past participle' is far more prevalent in both spoken and written forms.
 - In contrast, 'get + past participle' appears more frequently in spoken texts than in written texts, although it is generally less common. The higher occurrence of 'get + past participle' in spoken texts may be attributed to its more conversational nature, whereas 'be + past participle' remains the standard in written texts.
-+ These findings are valuable for linguistic studies, enhancing our understanding of English grammar across different modes of communication.
+
+These findings are valuable for linguistic studies, enhancing our understanding of English grammar across different modes of communication.
 
 ## 6. References
 - Alexiadou, A. (2005). *Functional structure in nominals: Nominalization and ergativity*. University of Stuttgart.
