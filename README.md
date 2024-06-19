@@ -104,7 +104,7 @@ This carefully selected dataset offers a strong base for analyzing language use 
 
 
 ### Interpretation
-The expected frequencies are calculated under the assumption that there is no difference in the use of passive constructions between spoken and written texts. The observed frequencies significantly deviate from the expected frequencies, indicating that the actual use of 'be' and 'get' passives in spoken and written texts is not as would be expected if there were no difference.
+The expected frequencies are calculated under the assumption that there is no difference in the use of passive constructions between spoken and written texts. The actual use of 'be' and 'get' passives in spoken and written texts is different from what we expected, showing a significant difference from the expected frequencies.
 
 - For 'be + past participle' in spoken texts, the observed frequency (1794) is slightly lower than the expected frequency (1891.65).
 - For 'get + past participle' in spoken texts, the observed frequency (128) is much higher than the expected frequency (30.35).
