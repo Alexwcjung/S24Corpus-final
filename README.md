@@ -77,11 +77,6 @@ This carefully selected dataset offers a strong base for analyzing language use 
   - The test compared the observed frequencies with the expected frequencies to identify any statistically significant deviations.
   - A significant result would indicate that the usage patterns of passive constructions differ between spoken and written texts.
 
-### 4. Results
-- **Chi-square Statistic**: 359.143
-- **P-value**: 4.327e-80
-- **Degrees of Freedom**: 1
-- **Interpretation**: The results showed a highly significant difference between the observed and expected frequencies, leading to the rejection of the null hypothesis. This indicates that the differences in the usage of 'be + past participle' and 'get + past participle' constructions between spoken and written texts are statistically significant. Specifically, 'be + past participle' is much more common in both forms, while 'get + past participle' is more frequent in spoken texts compared to written texts, though it remains less common overall.
 ## 4. Result and discussion (📌📌📌 Miran comment regarding the table below - Frequency table summary: Both Observed frequency and Expected frequency should be provided together)
 -----------------------------------------
 
@@ -102,23 +97,6 @@ This carefully selected dataset offers a strong base for analyzing language use 
 ### Chi-Squared Test 
 In this study, we employed the Chi-Squared test to examine the differences in the frequency of 'be + past participle' and 'get + past participle' constructions between spoken and written English texts. The Chi-Squared test is a statistical method used to determine whether there is a significant association between two categorical variables. The primary goal of using the Chi-Squared test in this research was to test the null hypothesis, which posited that there is no difference in the usage of passive constructions ('be + past participle' and 'get + past participle') between spoken and written texts. Rejecting this null hypothesis would suggest that the differences observed are statistically significant and not due to random chance.
 
-#### Methodology
-
-1. **Formulate Hypotheses**:
-   - **Null Hypothesis (H0)**: There is no difference in the usage of 'be + past participle' and 'get + past participle' constructions between spoken and written texts.
-   - **Alternative Hypothesis (H1)**: There is a significant difference in the usage of 'be + past participle' and 'get + past participle' constructions between spoken and written texts.
-
-2. **Data Collection**:
-   - The study collected data on the frequency of 'be + past participle' and 'get + past participle' constructions from a representative sample of spoken and written texts.
-
-3. **Calculate Expected Frequencies**:
-   - Based on the assumption that there is no difference (null hypothesis), expected frequencies for each category (spoken and written texts) were calculated.
-
-4. **Degrees of Freedom**:
-   - The degrees of freedom (df) for this test is calculated as the number of categories minus one. In this study, with two categories (spoken and written texts), the degrees of freedom is 1.
-
-5. **Determine Significance**:
-   - The Chi-Squared test yielded a statistic of 359.143 with a p-value of 4.327e-80.
 
 #### Results
 
