@@ -77,7 +77,7 @@ This carefully selected dataset offers a strong base for analyzing language use 
   - The test compared the observed frequencies with the expected frequencies to identify any statistically significant deviations.
   - A significant result would indicate that the usage patterns of passive constructions differ between spoken and written texts.
 
-## 4. Result and Discussion
+## 4. Result and Interpretation
 
 ### Frequency Table Summary
 
