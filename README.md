@@ -114,7 +114,7 @@ The Chi-square test results show a highly significant difference between the obs
 ## 5. Conclusion
 The analysis reveals a significant difference in the use of passive constructions ('be + past participle' and 'get + past participle') between spoken and written texts. Specifically, 'be + past participle' is far more prevalent in both spoken and written forms. In contrast, 'get + past participle' appears more frequently in spoken texts than in written texts, although it is generally less common. The higher occurrence of 'get + past participle' in spoken texts may be attributed to its more conversational nature, whereas 'be + past participle' remains the standard in written texts. These findings are valuable for linguistic studies, enhancing our understanding of English grammar across different modes of communication.
 
-## 6. references
+## 6. References
 - Alexiadou, A. (2005). *Functional structure in nominals: Nominalization and ergativity*. University of Stuttgart.
 - Biber, D., Johansson, S., Leech, G., Conrad, S., & Finegan, E. (1999). *Longman grammar of spoken and written English*. Longman.
 - Budwig, N. (1990). *The linguistic marking of nonprototypical agency: An exploration into children's use of passives* (Doctoral dissertation). Clark University.
