@@ -105,9 +105,7 @@ In this study, we employed the Chi-Squared test to examine the differences in th
 5. **Determine Significance**:
    - The Chi-Squared test yielded a statistic of 359.143 with a p-value of 4.327e-80.
 
-#### Interpretation of Results
-
-Here is the information presented as a table:
+#### Results
 
 |                         | Spoken Texts | Written Texts | Total         |
 |-------------------------|--------------|---------------|---------------|
@@ -128,7 +126,8 @@ Here is the information presented as a table:
 | **Conclusion**          |              |               |               |
 | The difference in passive constructions between spoken and written texts is statistically significant (reject null hypothesis) | | | |
 
-Given the Chi-Squared statistic of 359.143 and the p-value of 4.327e-80, indicating a highly significant result, we reject the null hypothesis. This result indicates a significant difference in the usage of passive constructions between spoken and written texts. Specifically, it supports the conclusion that 'be + past participle' is much more common in both forms, whereas 'get + past participle' is more frequent in spoken texts compared to written texts, although it remains less common overall.
+
+Given the Chi-Squared statistic of 359.143 and the p-value of 4.327e-80, indicating a highly significant result, we reject the null hypothesis. Expected frequencies in the context of a Chi-square test represent the frequencies of observations we would expect in each category if there were no association between the variables being studied—in other words, if the null hypothesis were true. This result indicates a significant difference in the usage of passive constructions between spoken and written texts. Specifically, it supports the conclusion that 'be + past participle' is much more common in both forms, whereas 'get + past participle' is more frequent in spoken texts compared to written texts, although it remains less common overall.
 
 ## 5. Conclusion and future research
 The analysis shows that the use of passive constructions ('be + past participle' and 'get + past participle') is significantly different between spoken and written texts. Specifically, 'be + past participle' is much more common in both spoken and written forms. However, 'get + past participle' is found more often in spoken texts than in written texts, though it is still less common overall. These findings indicate that while both forms of passive constructions are used in English, their usage depends on the context, highlighting differences between spoken and written communication. The higher frequency of 'get + past participle' in spoken texts may be due to its more conversational nature, while 'be + past participle' remains the standard in written texts. This insight is useful for linguistic studies, helping us understand how language varies in different communication modes.
