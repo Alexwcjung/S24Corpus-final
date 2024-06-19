@@ -105,17 +105,27 @@ In this study, we employed the Chi-Squared test to examine the differences in th
    - The Chi-Squared test yielded a statistic of 359.143 with a p-value of 4.327e-80.
 
 #### Interpretation of Results
-![Chi-Squared Test Results](https://github.com/Alexwcjung/S24Corpus-final/blob/main/Corpus/Chi-Squared%20Test%20Results.png)
 
-|                          | Spoken Texts | Written Texts | Total  |
-|--------------------------|--------------|---------------|--------|
-| **Observed Frequencies** |              |               |        |
-| be + past participle     | 1794         | 13910         | 15704  |
-| get + past participle    | 128          | 124           | 252    |
-| **Total**                | 1922         | 14034         | 16056  |
-| **Expected Frequencies** |              |               |        |
-| be + past participle     | 1879.27      | 13824.73      | 15704  |
-| get + past participle    | 30.15        | 221.85        | 252    |
+Here is the information presented as a table:
+
+|                         | Spoken Texts | Written Texts | Total         |
+|-------------------------|--------------|---------------|---------------|
+| **Occurrences**         |              |               |               |
+| be + past participle    | 1794         | 13910         | 15704         |
+| get + past participle   | 128          | 124           | 252           |
+| **Total**               | 1922         | 14034         | 15956         |
+| **Percentages**         |              |               |               |
+| be + past participle    | 93.34%       | 99.12%        | -             |
+| get + past participle   | 6.66%        | 0.88%         | -             |
+| **Chi-Square Test**     |              |               |               |
+| Chi-square statistic    | 359.143      |               |               |
+| P-value                 | 4.327e-80    |               |               |
+| Degrees of freedom      | 1            |               |               |
+| **Expected Frequencies**|              |               |               |
+| be + past participle    | 1891.65      | 13812.35      |               |
+| get + past participle   | 30.35        | 221.65        |               |
+| **Conclusion**          |              |               |               |
+| The difference in passive constructions between spoken and written texts is statistically significant (reject null hypothesis) | | | |
 
 Given the Chi-Squared statistic of 359.143 and the p-value of 4.327e-80, indicating a highly significant result, we reject the null hypothesis. This result indicates a significant difference in the usage of passive constructions between spoken and written texts. Specifically, it supports the conclusion that 'be + past participle' is much more common in both forms, whereas 'get + past participle' is more frequent in spoken texts compared to written texts, although it remains less common overall.
 
