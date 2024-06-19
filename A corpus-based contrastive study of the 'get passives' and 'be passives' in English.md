@@ -26,10 +26,21 @@ Hatcher (1949) noted that central get-passives are used for events with either p
 Research shows that central get-passives often carry emotional or interpersonal implications, indicating the speaker’s feelings or the subject's condition, unlike the neutral be-passives (Stubbs, 2001; Fryd, 2008). Thus, be- and get-passives are not used interchangeably (Siewierska, 1984; Guerrero Medina, 2009). Biber et al. (1999) found that get-passives usually involve verbs with negative connotations, referring to actions that are tough or disadvantageous for the subject. Rühlemann (2007) highlighted that central get-passives favor verbs with a negative core meaning.
 
 ### 3. Methodology
+Including the Chi-squared test as part of your methodology and mentioning it again in the results is a good approach. This way, the methodology section provides a clear understanding of the tools and procedures you used for analysis, while the results section presents the outcomes of applying those tools.
 
-#### 3.1 Data Collection
+### Methodology
+In this section, you describe the Chi-squared test as part of your data analysis approach.
 
-##### Spoken Data Source:
+### Results
+Here, you present the findings from the Chi-squared test, including the test statistic, p-value, and interpretation of these results.
+
+### Methodology
+
+#### 3. Methodology
+
+##### 3.1 Data Collection
+
+###### Spoken Data Source:
 - **Data Source**: The spoken data were collected from TED, specifically focusing on the 100 most viewed video clips within the communication section.
 - **Rationale**: TED videos were chosen for their high engagement and diverse range of topics, providing a rich source for linguistic analysis (TED, n.d.).
 - **Procedure**:
@@ -44,7 +55,7 @@ Research shows that central get-passives often carry emotional or interpersonal 
     - Extracted transcripts from the selected TED videos.
     - Ensured that the transcripts were accurate and complete for reliable analysis.
 
-##### Written Data Source:
+###### Written Data Source:
 - **Data Source**: Written data were extracted from the News on the Web (NOW) corpus.
 - **Rationale**: The NOW corpus is a comprehensive linguistic resource comprising a vast collection of online news articles. It supports research in linguistics and language variation (Davies, 2013).
 - **Content and Scope**:
@@ -58,16 +69,30 @@ Research shows that central get-passives often carry emotional or interpersonal 
     - Utilized Python scripts to remove extraneous characters such as HTML tags (<p>, <h>) and to split the text IDs.
     - This preprocessing step ensured that the data was clean and ready for analysis, removing any irrelevant information that could skew the results.
 
-##### Rationale for Comparison:
+##### 3.2 Rationale for Comparison
 The reason for comparing TED talks from the communication section and the NOW corpus is to ensure the authenticity and level of language proficiency in both spoken and written data. This comparison is crucial for achieving the research objective: to find out the frequency of 'be passives' and 'get passives' between spoken and written texts. By selecting sources that are comparable in terms of language use and authenticity, the study ensures that the analysis of passive constructions is legitimate and reflective of contemporary usage in both modes of communication.
 
-##### Combined Data Set:
+##### 3.3 Combined Data Set
 The combined dataset for this research includes:
 - **Spoken Data**: Cleaned transcripts from 100 TED video clips featuring native-like or native speakers of English, ensuring high-quality spoken language data.
 - **Written Data**: Samples from the NOW corpus collected between 2010 and 2016, comprising 2,916 texts with 1.7 million words, representing a wide array of online news articles.
 
 This carefully selected dataset offers a strong base for analyzing language use in both spoken and written forms.
 
+##### 3.4 Data Analysis Instrument: Chi-Squared Test
+- **Purpose**: The Chi-squared test was employed to determine whether there is a significant association between the type of text (spoken or written) and the use of 'be + past participle' and 'get + past participle' constructions.
+- **Calculation of Expected Frequencies**: 
+  - The expected frequencies for each cell in the contingency table were calculated using the formula:
+    \[ \text{Expected Frequency} = \frac{(\text{Row Total} \times \text{Column Total})}{\text{Grand Total}} \]
+- **Application**:
+  - The test compared the observed frequencies with the expected frequencies to identify any statistically significant deviations.
+  - A significant result would indicate that the usage patterns of passive constructions differ between spoken and written texts.
+
+### Results
+- **Chi-square Statistic**: 359.143
+- **P-value**: 4.327e-80
+- **Degrees of Freedom**: 1
+- **Interpretation**: The results showed a highly significant difference between the observed and expected frequencies, leading to the rejection of the null hypothesis. This indicates that the differences in the usage of 'be + past participle' and 'get + past participle' constructions between spoken and written texts are statistically significant. Specifically, 'be + past participle' is much more common in both forms, while 'get + past participle' is more frequent in spoken texts compared to written texts, though it remains less common overall.
 ## 4. Result and discussion (📌📌📌 Miran comment regarding the table below - Frequency table summary: Both Observed frequency and Expected frequency should be provided together)
 -----------------------------------------
 
