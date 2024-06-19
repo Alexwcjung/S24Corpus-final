@@ -1,4 +1,4 @@
-# S24Corpus-final (MK: See my comment regarding the table below)
+# S24Corpus-final (MK: 1) Write a title appropriate to your investigation topic, 2) See my comment regarding the table below)
 
 written by Woochang Jung
 
