@@ -100,7 +100,7 @@ This carefully selected dataset offers a strong base for analyzing language use 
 | **Conclusion**          |              |               |               |
 | The difference in passive constructions between spoken and written texts is statistically significant (reject null hypothesis) | | | |
 
-![Alt text]([URL or path to the image](https://github.com/Alexwcjung/S24Corpus-final/blob/main/Corpus/Percentage%20of%20Passives%20in%20Spoken%20and%20Written%20Texts.png))
+![Analysis Results](https://github.com/Alexwcjung/S24Corpus-final/blob/main/Corpus/Percentage%20of%20Passives%20in%20Spoken%20and%20Written%20Texts.png)
 
 
 ### Interpretation
