@@ -25,9 +25,11 @@ Hatcher (1949) noted that central get-passives are used for events with either p
 
 Research shows that central get-passives often carry emotional or interpersonal implications, indicating the speaker’s feelings or the subject's condition, unlike the neutral be-passives (Stubbs, 2001; Fryd, 2008). Thus, be- and get-passives are not used interchangeably (Siewierska, 1984; Guerrero Medina, 2009). Biber et al. (1999) found that get-passives usually involve verbs with negative connotations, referring to actions that are tough or disadvantageous for the subject. Rühlemann (2007) highlighted that central get-passives favor verbs with a negative core meaning.
 
-### 3. Data Collection Methodology
+### 3. Methodology
 
-#### 3.1 Spoken Data Source:
+#### 3.1 Data Collection
+
+##### Spoken Data Source:
 - **Data Source**: The spoken data were collected from TED, specifically focusing on the 100 most viewed video clips within the communication section.
 - **Rationale**: TED videos were chosen for their high engagement and diverse range of topics, providing a rich source for linguistic analysis (TED, n.d.).
 - **Procedure**:
@@ -36,11 +38,13 @@ Research shows that central get-passives often carry emotional or interpersonal 
     - **Process**: Accessed the TED website, filtered videos by the communication category, and sorted them by the number of views to identify the top 100 clips.
   - **Engagement**: TED videos are highly engaging and cover a wide array of topics, making them suitable for a comprehensive linguistic analysis.
   - **Diversity**: The selection ensures a diverse representation of spoken English from various speakers and contexts.
+  - **Speaker Criteria**: The selected TED video clips feature native-like or native speakers of English, ensuring high-quality spoken language data.
   - **Cleaning Process**:
+    - Selected TED video clips featuring native-like or native speakers to ensure the authenticity and quality of the spoken language data.
     - Extracted transcripts from the selected TED videos.
     - Ensured that the transcripts were accurate and complete for reliable analysis.
 
-#### 3.2 Written Data Source:
+##### Written Data Source:
 - **Data Source**: Written data were extracted from the News on the Web (NOW) corpus.
 - **Rationale**: The NOW corpus is a comprehensive linguistic resource comprising a vast collection of online news articles. It supports research in linguistics and language variation (Davies, 2013).
 - **Content and Scope**:
@@ -54,10 +58,10 @@ Research shows that central get-passives often carry emotional or interpersonal 
     - Utilized Python scripts to remove extraneous characters such as HTML tags (<p>, <h>) and to split the text IDs.
     - This preprocessing step ensured that the data was clean and ready for analysis, removing any irrelevant information that could skew the results.
 
-#### 3.3 Rationale for Comparison
+##### Rationale for Comparison:
 The reason for comparing TED talks from the communication section and the NOW corpus is to ensure the authenticity and level of language proficiency in both spoken and written data. This comparison is crucial for achieving the research objective: to find out the frequency of 'be passives' and 'get passives' between spoken and written texts. By selecting sources that are comparable in terms of language use and authenticity, the study ensures that the analysis of passive constructions is legitimate and reflective of contemporary usage in both modes of communication.
 
-#### 3.4 Combined Data Set
+##### Combined Data Set:
 The combined dataset for this research includes:
 - **Spoken Data**: Cleaned transcripts from 100 TED video clips featuring native-like or native speakers of English, ensuring high-quality spoken language data.
 - **Written Data**: Samples from the NOW corpus collected between 2010 and 2016, comprising 2,916 texts with 1.7 million words, representing a wide array of online news articles.
