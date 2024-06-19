@@ -70,7 +70,7 @@ The combined dataset for this research includes:
 
 This carefully selected dataset offers a strong base for analyzing language use in both spoken and written forms.
 
-##### 3.4 Data Analysis Instrument: Chi-Squared Test
+##### 3.4 Statistical data analysis: Chi-Squared Test
 
 - **Purpose**: The Chi-squared test was employed to determine whether there is a significant association between the type of text (spoken or written) and the use of 'be + past participle' and 'get + past participle' constructions.
 - **Application**:
