@@ -70,9 +70,6 @@ This carefully selected dataset offers a strong base for analyzing language use 
 
 ##### 3.4 Data Analysis Instrument: Chi-Squared Test
 - **Purpose**: The Chi-squared test was employed to determine whether there is a significant association between the type of text (spoken or written) and the use of 'be + past participle' and 'get + past participle' constructions.
-- **Calculation of Expected Frequencies**: 
-  - The expected frequencies for each cell in the contingency table were calculated using the formula:
-    \[ \text{Expected Frequency} = \frac{(\text{Row Total} \times \text{Column Total})}{\text{Grand Total}} \]
 - **Application**:
   - The test compared the observed frequencies with the expected frequencies to identify any statistically significant deviations.
   - A significant result would indicate that the usage patterns of passive constructions differ between spoken and written texts.
