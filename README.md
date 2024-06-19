@@ -79,6 +79,9 @@ This carefully selected dataset offers a strong base for analyzing language use 
 
 ### Frequency Table Summary
 
+![Analysis Results](https://github.com/Alexwcjung/S24Corpus-final/blob/main/Corpus/Percentage%20of%20Passives%20in%20Spoken%20and%20Written%20Texts.png)
+
+
 |                         | Spoken Texts | Written Texts | Total         |
 |-------------------------|--------------|---------------|---------------|
 | **Occurrences**         |              |               |               |
@@ -98,7 +101,6 @@ This carefully selected dataset offers a strong base for analyzing language use 
 | **Conclusion**          |              |               |               |
 | The difference in passive constructions between spoken and written texts is statistically significant (reject null hypothesis) | | | |
 
-![Analysis Results](https://github.com/Alexwcjung/S24Corpus-final/blob/main/Corpus/Percentage%20of%20Passives%20in%20Spoken%20and%20Written%20Texts.png)
 
 
 ### Interpretation
