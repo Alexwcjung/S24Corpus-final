@@ -88,7 +88,7 @@ This carefully selected dataset offers a strong base for analyzing language use 
 
 |                         | Spoken Texts | Written Texts | Total         |
 |-------------------------|--------------|---------------|---------------|
-| **Occurrences**         |              |               |               |
+| **Observed frequencies**         |              |               |               |
 | be + past participle    | 1794         | 13910         | 15704         |
 | get + past participle   | 128          | 124           | 252           |
 | **Total**               | 1922         | 14034         | 15956         |
