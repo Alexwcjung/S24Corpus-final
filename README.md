@@ -70,10 +70,13 @@ The combined dataset for this research includes:
 This carefully selected dataset offers a strong base for analyzing language use in both spoken and written forms.
 
 ##### 3.4 Data Analysis Instrument: Chi-Squared Test
+
 - **Purpose**: The Chi-squared test was employed to determine whether there is a significant association between the type of text (spoken or written) and the use of 'be + past participle' and 'get + past participle' constructions.
 - **Application**:
   - The test compared the observed frequencies with the expected frequencies to identify any statistically significant deviations.
   - A significant result would indicate that the usage patterns of passive constructions differ between spoken and written texts.
+  - **Null Hypothesis (H0)**: There is no significant association between the type of text (spoken or written) and the use of 'be + past participle' and 'get + past participle' constructions. The usage patterns of these passive constructions are independent of the text type.
+  - **Alternative Hypothesis (H1)**: There is a significant association between the type of text (spoken or written) and the use of 'be + past participle' and 'get + past participle' constructions. The usage patterns of these passive constructions differ between spoken and written texts.
 
 ## 4. Result and Interpretation
 
